@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "Mrk-x1-iub"; */
+"Mrk-x1-iub.normalTitle" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Sign Out"; ObjectID = "azT-tN-kRF"; */
+"azT-tN-kRF.normalTitle" = "Sign Out";
+
+/* Class = "UIButton"; normalTitle = "Current Place"; ObjectID = "e2Y-WI-7eb"; */
+"e2Y-WI-7eb.normalTitle" = "Current Place";
+
+/* Class = "UIButton"; normalTitle = "Google Maps"; ObjectID = "elt-rz-4kz"; */
+"elt-rz-4kz.normalTitle" = "Google Maps";
+
+/* Class = "UIButton"; normalTitle = "Google Places"; ObjectID = "hz8-dc-3UP"; */
+"hz8-dc-3UP.normalTitle" = "Google Places";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "o3P-ZI-Piv"; */
+"o3P-ZI-Piv.text" = "french label";
+
+/* Class = "UIButton"; normalTitle = "Pick Location"; ObjectID = "qve-cY-P9C"; */
+"qve-cY-P9C.normalTitle" = "Pick Location";
+
+/* Class = "UIButton"; normalTitle = "Share Link"; ObjectID = "sqY-Rc-0b7"; */
+"sqY-Rc-0b7.normalTitle" = "Share Link";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xYL-Yj-qKp"; */
+"xYL-Yj-qKp.text" = "addrs Label";

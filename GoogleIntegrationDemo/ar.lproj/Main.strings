@@ -1,0 +1,27 @@
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "Mrk-x1-iub"; */
+"Mrk-x1-iub.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "Sign Out"; ObjectID = "azT-tN-kRF"; */
+"azT-tN-kRF.normalTitle" = "تسجيل الخروج";
+
+/* Class = "UIButton"; normalTitle = "Current Place"; ObjectID = "e2Y-WI-7eb"; */
+"e2Y-WI-7eb.normalTitle" = "المكان الحالي";
+
+/* Class = "UIButton"; normalTitle = "Google Maps"; ObjectID = "elt-rz-4kz"; */
+"elt-rz-4kz.normalTitle" = "خرائط جوجل";
+
+/* Class = "UIButton"; normalTitle = "Google Places"; ObjectID = "hz8-dc-3UP"; */
+"hz8-dc-3UP.normalTitle" = "أماكن جوجل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "o3P-ZI-Piv"; */
+"o3P-ZI-Piv.text" = "ملصق";
+
+/* Class = "UIButton"; normalTitle = "Pick Location"; ObjectID = "qve-cY-P9C"; */
+"qve-cY-P9C.normalTitle" = "اختيار الموقع";
+
+/* Class = "UIButton"; normalTitle = "Share Link"; ObjectID = "sqY-Rc-0b7"; */
+"sqY-Rc-0b7.normalTitle" = "حصة لينك";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xYL-Yj-qKp"; */
+"xYL-Yj-qKp.text" = "ملصق";
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Localizable.stringsdict.plist
+   GoogleIntegrationDemo
+
+   Created by Krishana on 12/30/15.
+   Copyright (c) 2015 Konstant Info Solutions Pvt. Ltd. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>%d file(s) remaining</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@files@</string>
+            <key>files</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>Остался %d файл</string>
+                <key>many</key>
+                <string>Осталось %d файлов</string>
+                <key>other</key>
+                <string>Осталось %d файла</string>
+            </dict>
+        </dict>
+    </dict>
+</plist>

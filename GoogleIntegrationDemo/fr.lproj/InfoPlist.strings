@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  GoogleIntegrationDemo
+
+  Created by Krishana on 12/30/15.
+  Copyright © 2015 Konstant Info Solutions Pvt. Ltd. All rights reserved.
+*/
+
+CFBundleDisplayName = "Maisons";
+NSHumanReadableCopyright = "Copyright © 2014 My Great Company Tous droits réservés.";
